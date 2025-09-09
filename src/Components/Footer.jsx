@@ -93,7 +93,7 @@ const Footer = () => {
 
           <div class="d-flex justify-content-between pt-4 mt-4 border-top">
             <p className="text-white">
-              &copy; 2023 Company, Inc. All rights reserved.
+              &copy; 2024 Company, Inc. All rights reserved.
             </p>
             <ul class="list-unstyled d-flex">
               <li class="ms-3">
